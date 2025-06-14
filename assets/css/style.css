@@ -625,6 +625,12 @@ img.trust-line2 {
   margin-bottom: 80px;
 }
 
+.contact-map-frame iframe {
+  width: 100%;
+  height: 300px;
+  border: 0;
+}
+
 .contact-us-img {
     max-width: 350px;
 }
@@ -2018,7 +2024,13 @@ header .site-btn {
 }
 
 .contact-header {
-  margin-bottom: 0px;
+  margin-bottom: 40px;
+}
+.contact-map-frame {
+  margin-bottom: 40px;
+}
+.contact-map-frame iframe {
+  height: 250px;
 }
 footer p {
   font-size: 16px;
