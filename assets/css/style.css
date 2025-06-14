@@ -621,6 +621,10 @@ img.trust-line2 {
   justify-content: center;
 }
 
+.contact-map-frame {
+  margin-bottom: 80px;
+}
+
 .contact-us-img {
     max-width: 350px;
 }
